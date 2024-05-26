@@ -1,6 +1,6 @@
-# Phase 1 – Mini Project
+# Mini Project
 
-In this lab, we will create a small program that will use the following skills learned in phase 1:
+In this lab, we will create a small program that will use the following skills:
 - Manipulating string data
 - Navigating a json/dictionary data structure
 - Sending a request to an api and collecting the response
